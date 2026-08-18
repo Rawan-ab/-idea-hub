@@ -9,7 +9,11 @@
 ## أهم المميزات
 - Invite-only لشخصين.
 - Home فيه For You للرسائل والكروت الجديدة.
-- Our Photos مع Caption وتاريخ وتفاعل.
+- Our Photos تكون مكتبة ألبومات مشتركة، وليس مجرد Feed صور.
+- إنشاء Albums حسب المناسبة أو الرحلة أو الفترة، مثل: Daily، Trips، Us، 2026، Weekend وغيرها.
+- كل Album يظهر ككتاب/دفتر بصري يمكن التنقل بين صفحاته، مستوحى من مراجع الـscrapbook والـbookshelf.
+- داخل الألبوم يمكن للطرفين إضافة صور، Caption، تاريخ، ونصوص/ملاحظات صغيرة، مع إمكانية ترتيب الصور على الصفحة بأسلوب scrapbook.
+- الطرفان يستطيعان إضافة صور لنفس الألبوم، وأي إضافة جديدة تظهر للطرف الآخر.
 - Notes / Messages ككروت شخصية، مع ردود و❤️.
 - Open Later لرسائل تُفتح في تاريخ محدد.
 - Restaurants: Want to visit → Visited → Rating + Would go again.
@@ -20,8 +24,11 @@
 - Notifications عند إضافة محتوى جديد.
 - Share to App: مشاركة رابط من TikTok / Instagram / X / YouTube / Spotify / Google Maps / Safari وحفظه تلقائيًا في القسم المناسب.
 
+## اتجاه الصور والألبومات
+قسم الصور يكون مثل Bookshelf / Album Library. كل ألبوم له Cover واسمه، وعند فتحه يتحول إلى صفحات تشبه كتاب صور أو scrapbook. الهدف أن الصور تكون تجربة مشتركة نرجع لها ونرتبها، وليس Gallery تقليدي فقط.
+
 ## اتجاه التصميم
-خلفيات دافئة وCream، كروت Rounded، Gradients شفافة، تنظيم يشبه Library / Collections، رسائل ملونة، Notes مرنة تحتوي نصوص وصور وصوت، وذكريات بأسلوب Polaroid / Scrapbook.
+خلفيات دافئة وCream، كروت Rounded، Gradients شفافة، تنظيم يشبه Library / Collections، رسائل ملونة، Notes مرنة تحتوي نصوص وصور وصوت، وذكريات بأسلوب Polaroid / Scrapbook. مراجع الألبومات الجديدة تعتمد أيضًا على عرض الألبومات ككتب وصفحات قابلة للتصفح.
 
 ## التقنية المقترحة
 - Flutter
@@ -32,4 +39,4 @@
 - iOS Share Extension + Android Share Intent
 
 ## الإصدار الأول
-التركيز على: Home، Photos، Notes/Messages، Restaurants، Movies & Series، Memories، Notifications، Share Links.
+التركيز على: Home، Photo Albums، Notes/Messages، Restaurants، Movies & Series، Memories، Notifications، Share Links.
