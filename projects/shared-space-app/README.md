@@ -4,7 +4,7 @@
 بناء تطبيق Flutter خاص بين شخصين فقط، يعمل بالدعوة، ويكون هدية جاهزة قبل 1 يناير 2027.
 
 ## الفكرة الأساسية
-مساحة مشتركة خاصة تحتوي على صور، رسائل ونوت على شكل كروت، مطاعم، أفلام ومسلسلات، موسيقى، Wishlist، وذكريات. كل إضافة من أحد الطرفين تظهر للطرف الآخر، مع إشعارات وتقييمات وحالات مثل Visited وWatched.
+مساحة مشتركة خاصة تحتوي على صور، رسائل ونوت على شكل كروت، مطاعم ومقاهي، أفلام ومسلسلات، موسيقى، خطط مشتركة، وذكريات. كل إضافة من أحد الطرفين تظهر للطرف الآخر، مع إشعارات وتقييمات وحالات مثل Visited وWatched.
 
 ## أهم المميزات
 - Invite-only لشخصين.
@@ -21,11 +21,10 @@
 - عند فتح قسم الرسائل تظهر Stack من الكروت، ويمكن السحب بينها أو فتح كل Card على حدة لقراءة النص كاملًا.
 - كل Card يمكن أن تحتوي نص، عنوان قصير، تاريخ، Emoji أو صورة صغيرة، مع ردود و❤️.
 - Open Later لرسائل تُفتح في تاريخ محدد، ويمكن أن تظهر البطاقة مقفلة حتى موعد فتحها.
-- Restaurants: Want to visit → Visited → Rating + Would go again.
-- Movies & Series: Want to watch → Watching → Watched → Rating.
+- Restaurants & Cafes: Want to visit → Visited → Rating + Would go again.
+- Movies & Series: Want to watch → Watched → Rating.
 - Music links وقوائم مشتركة.
-- Clothes / Wishlist.
-- Memories Timeline.
+- Shared Plans للأشياء والأنشطة التي نريد عملها معًا.
 - Notifications عند إضافة محتوى جديد.
 - Share to App: مشاركة رابط من TikTok / Instagram / X / YouTube / Spotify / Google Maps / Safari وحفظه تلقائيًا في القسم المناسب.
 
@@ -47,4 +46,4 @@
 - iOS Share Extension + Android Share Intent
 
 ## الإصدار الأول
-التركيز على: Home، Monthly Photo Albums، Notes/Messages Cards، Restaurants، Movies & Series، Memories، Notifications، Share Links.
+التركيز على: Home، Monthly Photo Albums، Notes/Messages Cards، Restaurants & Cafes، Movies & Series، Music، Shared Plans، Notifications، Share Links.
